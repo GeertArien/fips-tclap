@@ -1,0 +1,6 @@
+#
+# fips-tclap
+#
+---
+exports:
+   header-dirs: [ 'tclap-code/include', 'tclap-code/include/tclap'  ]
